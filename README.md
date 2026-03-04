@@ -30,7 +30,7 @@ The notebook is organized into clearly defined sections:
 3. Activate notebook: `jupyter notebook`
 4. Run notebook from top to bottom
 
-The notebook is fully executable end-to-end.
+The notebook is fully executable end-to-end. In case the download link for the data does not work, I have uploaded a copy of the cleaned dataset we used, feel free to replace the file path if needed. 
 
 ---
 
